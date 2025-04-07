@@ -95,7 +95,7 @@
 \RequirePackage{cleveref}
 \RequirePackage{calc}
 
-\RequirePackage[outputdir=out/aux]{minted}
+\RequirePackage{minted}
 \usemintedstyle{lovelace}
 \setminted{fontsize=\small, autogobble=true, bgcolor=TUMBlue!5!TUMWhite, breaklines=true}
 
